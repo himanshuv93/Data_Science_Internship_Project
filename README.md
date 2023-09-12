@@ -1,1 +1,1 @@
-# Data_Science_Internship_Project
+# Sales_Prediction_Amazing_Mart
